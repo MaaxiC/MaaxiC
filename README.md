@@ -3,7 +3,9 @@
 I am a Full-stack Web Developer who is exploring Mobile Development. I'm enthusiastic about Technology.
 
 🌱 I’m currently learning React Native.
+
 :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+
 💬 Ask me about Development or any Tech-related stuff.
 
 ---
@@ -25,12 +27,14 @@ I am a Full-stack Web Developer who is exploring Mobile Development. I'm enthusi
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ### Other Languages I know
+
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 
 ---
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="MaaxiC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="MaaxiC | LinkedIn" width="22px" src="https://www.rmit.edu.au/content/dam/rmit/au/en/students/images/icons/social/icon-social-linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/maximiliano-carnero/
 
