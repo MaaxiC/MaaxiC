@@ -1,4 +1,4 @@
-### Hi Maxi here 👋
+### Hi, Maxi here 👋
 
 I am a Full-stack Web Developer who is exploring Mobile Development. I'm enthusiastic about Technology.
 
