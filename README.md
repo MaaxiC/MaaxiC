@@ -2,9 +2,9 @@
 
 I am a Full-stack Web Developer who is exploring Mobile Development. I'm enthusiastic about Technology.
 
-🌱 I’m currently learning React Native.
+🌱 I’m currently learning NESTJS.
 
-:books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+:books: I want to learn NEXT.JS.
 
 💬 Ask me about Development or any Tech-related stuff.
 
