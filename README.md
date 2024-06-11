@@ -1,6 +1,6 @@
 ### Hi, Maxi here 👋
 
-I am a Full-stack Web Developer who is exploring Mobile Development. I'm enthusiastic about Technology.
+I am a Full-stack Web Developer who is exploring Deep Learning. I'm enthusiastic about Technology.
 
 🌱 I’m currently learning Python and PyTorch.
 
