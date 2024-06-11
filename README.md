@@ -2,9 +2,9 @@
 
 I am a Full-stack Web Developer who is exploring Mobile Development. I'm enthusiastic about Technology.
 
-🌱 I’m currently learning NESTJS.
+🌱 I’m currently learning Python and PyTorch.
 
-:books: I want to learn NEXT.JS.
+:books: I want to learn about Neural Network and LLMs.
 
 💬 Ask me about Development or any Tech-related stuff.
 
